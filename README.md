@@ -1,8 +1,6 @@
 # image-uploads
 uploads
 
-![download](https://user-images.githubusercontent.com/78454964/221044431-a1f477a4-f9fe-433b-a8b1-71b0e5b8145c.jpeg)
-
 ![123124312431231](https://user-images.githubusercontent.com/78454964/221205889-de80112a-3484-4172-8598-69289588cb57.png)
 
 ![hand-painted-watercolor-pastel-sky-background_52683-59881](https://user-images.githubusercontent.com/78454964/221198912-6bd05f85-567d-45ba-a5fd-dbbabad5b0b7.png)
