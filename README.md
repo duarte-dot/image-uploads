@@ -8,3 +8,5 @@ uploads
 ![1b6f2329-6e1c-4615-9610-f9c0f92aec01](https://user-images.githubusercontent.com/78454964/221200598-7cbc3264-29d6-4b12-9883-5594627c41ac.png)
 
 ![Captura_de_tela_de_2023-02-24_11-14-35-removebg-preview](https://user-images.githubusercontent.com/78454964/221200615-f33a165c-216e-4787-a48e-8101162470b9.png)
+
+![trybe wallet (1)](https://user-images.githubusercontent.com/78454964/221427828-4e0fd7e2-d7bc-4fbb-a0fd-79f44544d49e.png)
