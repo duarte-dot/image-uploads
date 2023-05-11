@@ -12,3 +12,5 @@ uploads
 ![trybe_wallet__1_-removebg-preview](https://user-images.githubusercontent.com/78454964/221427847-ea148894-b283-4671-ba6f-9ca8fda0eab3.png)
 
 ![ezgif com-gif-maker](https://github.com/duarte-dot/image-uploads/assets/78454964/061b23d4-f57e-4164-96fc-8560cd7a84a6)
+
+![360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws-removebg-preview](https://github.com/duarte-dot/image-uploads/assets/78454964/7e303be4-12a7-414f-9aac-e83e8264cd14)
