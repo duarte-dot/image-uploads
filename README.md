@@ -20,4 +20,6 @@ uploads
 ![trybetunes](https://github.com/duarte-dot/image-uploads/assets/78454964/a743e946-ad63-4970-a694-f1c70b6a97b9)
 ![trybetunes-modo-escuro](https://github.com/duarte-dot/image-uploads/assets/78454964/491028e2-b346-4ff7-8713-bdc96c1e88f3)
 
+![chats-logo](https://github.com/duarte-dot/image-uploads/assets/78454964/2e9e8e19-29b5-466e-9e3f-57536c8d36dd)
+
 ![portfolio2](https://github.com/duarte-dot/image-uploads/assets/78454964/45a6c670-72ba-482a-adc8-2aafe6693915)
