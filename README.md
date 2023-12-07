@@ -22,4 +22,9 @@ uploads
 
 ![chats-logo](https://github.com/duarte-dot/image-uploads/assets/78454964/2e9e8e19-29b5-466e-9e3f-57536c8d36dd)
 
+![free-user-icon-3296-thumb](https://github.com/duarte-dot/image-uploads/assets/78454964/157ae0eb-61fc-47dd-86c5-04289dd86b11)
+
+
 ![portfolio2](https://github.com/duarte-dot/image-uploads/assets/78454964/45a6c670-72ba-482a-adc8-2aafe6693915)
+
+
