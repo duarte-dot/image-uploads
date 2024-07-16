@@ -31,4 +31,4 @@ uploads
 ![portfolio2](https://github.com/duarte-dot/image-uploads/assets/78454964/45a6c670-72ba-482a-adc8-2aafe6693915)
 
 
-![hourglass-1046841_960_720](https://github.com/user-attachments/assets/8e054cfe-887d-4883-8d2b-15f1fc724336)
+![Untitled_design__2_-removebg-preview](https://github.com/user-attachments/assets/0b682359-cb0a-4638-a0ee-b3a938a643b4)
