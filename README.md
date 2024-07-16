@@ -14,6 +14,7 @@ uploads
 ![ezgif com-gif-maker](https://github.com/duarte-dot/image-uploads/assets/78454964/061b23d4-f57e-4164-96fc-8560cd7a84a6)
 
 ![360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws-removebg-preview](https://github.com/duarte-dot/image-uploads/assets/78454964/7e303be4-12a7-414f-9aac-e83e8264cd14)
+![forum-app](https://github.com/user-attachments/assets/5b18155d-925e-40b8-ad65-d083619cb97f)
 
 ![comingsoon](https://github.com/duarte-dot/image-uploads/assets/78454964/dc369211-ae89-4c69-9313-33cb33e5190a)
 ![comingsoon-modo-escuro](https://github.com/duarte-dot/image-uploads/assets/78454964/f7fe2eb4-2977-46c6-9aa9-b0ccc613842e)
