@@ -39,3 +39,9 @@ uploads
 
 
 ![Untitled_design__5_-removebg-preview](https://github.com/user-attachments/assets/33df4e7f-35c8-44cf-8bc1-d27c4c72d004)
+
+
+![Captura de Tela 2024-07-16 às 17 43 58](https://github.com/user-attachments/assets/6c4a4761-cfb1-47d3-819c-de7e11179679)
+
+![Captura de Tela 2024-07-16 às 17 53 50](https://github.com/user-attachments/assets/78cc1efd-d632-4a20-99b8-d96e7d9396e9)
+
