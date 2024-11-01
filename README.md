@@ -46,3 +46,5 @@ uploads
 ![Captura de Tela 2024-07-16 às 17 53 50](https://github.com/user-attachments/assets/78cc1efd-d632-4a20-99b8-d96e7d9396e9)
 ![fibblog](https://github.com/user-attachments/assets/a48bf724-237b-45ab-8923-99cf450b1537)
 
+![Captura de Tela 2024-11-01 às 17 56 21](https://github.com/user-attachments/assets/f9dc09f7-a7f9-4fda-b9ba-95604f693c1d)
+
