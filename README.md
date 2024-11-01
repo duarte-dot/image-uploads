@@ -48,3 +48,7 @@ uploads
 
 ![Captura de Tela 2024-11-01 às 17 56 21](https://github.com/user-attachments/assets/f9dc09f7-a7f9-4fda-b9ba-95604f693c1d)
 
+![Captura de Tela 2024-11-01 às 18 12 09](https://github.com/user-attachments/assets/3dfab0e9-0a49-49a5-a44c-1d85abbfa25f)
+
+![Captura de Tela 2024-11-01 às 18 13 30](https://github.com/user-attachments/assets/f78d3d56-37b4-439c-8fbd-115542df0a89)
+
