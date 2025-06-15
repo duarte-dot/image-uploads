@@ -54,3 +54,5 @@ uploads
 
 
 ![favicon](https://github.com/user-attachments/assets/e4fbfc9a-0ea5-4140-a2b6-87a251d5834e)
+![lovu-logo-rosa](https://github.com/user-attachments/assets/39aae76e-eea3-45b4-9065-3c695fc90dc9)
+
