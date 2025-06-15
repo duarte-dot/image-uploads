@@ -52,3 +52,5 @@ uploads
 
 ![Captura de Tela 2024-11-01 às 18 13 30](https://github.com/user-attachments/assets/f78d3d56-37b4-439c-8fbd-115542df0a89)
 
+
+![favicon](https://github.com/user-attachments/assets/e4fbfc9a-0ea5-4140-a2b6-87a251d5834e)
