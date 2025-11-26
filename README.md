@@ -56,3 +56,6 @@ uploads
 ![favicon](https://github.com/user-attachments/assets/e4fbfc9a-0ea5-4140-a2b6-87a251d5834e)
 ![lovu-logo-rosa](https://github.com/user-attachments/assets/39aae76e-eea3-45b4-9065-3c695fc90dc9)
 
+<img width="2048" height="1364" alt="piratas (2) (1)" src="https://github.com/user-attachments/assets/a33e5d16-ab68-46ea-ba28-96df8dfa4909" />
+
+
